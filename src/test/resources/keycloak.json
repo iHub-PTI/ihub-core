@@ -1,0 +1,8 @@
+{
+  "realm": "iHub",
+  "auth-server-url" : "https://sso-test.pti.org.py/auth/",
+  "resource" : "test-service",
+  "credentials": {
+    "secret": "002d5c27-f114-419a-81f4-c22fb2a9a352"
+  }
+}
